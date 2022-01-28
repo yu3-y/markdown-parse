@@ -1,9 +1,7 @@
 # Title
 
 [cool link] (google.com)
-[
-
-![Image] (image123.jpg)
+[link] (asdf.ghjkl)
 
 
 nextOpenBracket = 9
